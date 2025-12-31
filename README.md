@@ -9,10 +9,11 @@ All labs include Jupyter Notebook solutions, source data, and task descriptions 
 ---
 
 ## Структура проекта / Project Structure
-
+```
 ML/
 │
 ├─ notebooks/ # Jupyter ноутбуки с решениями / Jupyter notebooks with solutions
+|
 │ ├─ Lab_1.ipynb
 │ ├─ Lab_2.ipynb
 │ ├─ Lab_3.ipynb
@@ -47,7 +48,7 @@ ML/
 │ └─ lab11_task.md
 │
 └─ README.md # Этот файл / This file
-
+```
 
 
 ---
