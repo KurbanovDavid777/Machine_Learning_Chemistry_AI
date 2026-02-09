@@ -3,7 +3,7 @@
 
 ---
 
-## 🇷🇺 Описание задания
+##  Описание задания
 
 ### Цель работы
 Реализовать пайплайн обучения ViT или Swin трансформера для классификации изображений и объединить результаты с текстовой моделью из Lab 10 с использованием контрастного обучения для zero-shot классификации.
@@ -27,7 +27,7 @@
 
 ---
 
-## 🇬🇧 Task description
+##  Task description
 
 ### Goal
 Implement a training pipeline for ViT or Swin transformer for image classification and combine it with the text model from Lab 10 using contrastive learning for zero-shot classification.
